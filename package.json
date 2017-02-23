@@ -1,0 +1,25 @@
+{
+  "name": "80-opacity",
+  "version": "1.0.0",
+  "description": "Get 80% opacity from a HEX color input on white background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markphd/80-opacity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markphd/80-opacity/issues"
+  },
+  "homepage": "https://github.com/markphd/80-opacity#readme",
+  "dependencies": {
+    "color": "^1.0.3",
+    "minimist": "^1.2.0",
+    "rgb-hex": "^2.1.0"
+  }
+}
