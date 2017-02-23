@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/markphd/80-opacity#readme",
   "dependencies": {
+    "argv": "0.0.2",
     "color": "^1.0.3",
-    "minimist": "^1.2.0",
     "rgb-hex": "^2.1.0"
   }
 }
